@@ -13,7 +13,11 @@ class MainActivity : AppCompatActivity() {
 
         val bouton = findViewById<Button>(R.id.monBouton)
 
+        //Testafafafa
+
+
         bouton.text ="toto"
+
         bouton.setOnClickListener{ cliquerBouton()}
     }
 
